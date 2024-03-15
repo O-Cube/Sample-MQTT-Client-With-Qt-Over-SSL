@@ -1,4 +1,4 @@
-# Sample-MQTT-Client-with-QT
+# Sample-MQTT-Client-With-QT-Over-SSL
 A MQTT client that stores values from subscribed topics into a MySQL database. 
 ![image](https://github.com/O-Cube/Sample-MQTT-Client-with-QT/assets/65163799/f3145957-1b42-4377-ab5c-3c1c41e0eb7a)
 
